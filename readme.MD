@@ -1,3 +1,3 @@
 <p style="text-align: center;">
-Printable Document Page Slash Website
+Printable Document Page / Website
 </p>
